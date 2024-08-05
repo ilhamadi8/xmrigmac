@@ -14,7 +14,7 @@
     "background": false,
     "colors": true,
     "randomx": {
-        "init": -1,
+        "init": 6,
         "mode": "auto",
         "numa": true
     },
