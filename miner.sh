@@ -1,0 +1,1 @@
+./xmrig -c config.json
